@@ -1,0 +1,1 @@
+In Node, your application code runs in a single thread. The stdlib provides access to APIs that run I/O processes in separate, system managed threads and invoke your application level callbacks as appropriate.

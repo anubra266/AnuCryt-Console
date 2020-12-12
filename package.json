@@ -1,0 +1,15 @@
+{
+  "name": "anucrypt",
+  "version": "1.0.0",
+  "description": "Encrypt files with node.",
+  "main": "index.js",
+  "author": "anubra266",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
